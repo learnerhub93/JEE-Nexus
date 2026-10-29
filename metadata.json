@@ -1,0 +1,6 @@
+{
+  "name": "JEE Nexus — NCERT & High-Yield Study Portal",
+  "description": "Distraction-free JEE Main & Advanced study portal covering Physics, Chemistry, and Mathematics (Class 11 & 12 NCERT) with 80/20 high-yield tags, 4-color notes, formula vault, and 1-click exam-eve revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
